@@ -21,3 +21,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+git branch -m main primary
+git fetch origin
+git branch -u origin/primary primary
+git remote set-head origin -a
