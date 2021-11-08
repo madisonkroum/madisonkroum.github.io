@@ -21,3 +21,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+$ git config --global user.name "Madison Kroum"
+$ git config --global user.email madisonkroum@tamu.edu
